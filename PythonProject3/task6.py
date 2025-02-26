@@ -1,0 +1,1 @@
+print(len(set(s := input().split())) < len(s))

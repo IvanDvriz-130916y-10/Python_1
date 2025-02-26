@@ -1,0 +1,1 @@
+print((lambda n: f"{n:b}, {n:o}, {n:x}" if n>0 else "Неверный ввод")(int(input())))
